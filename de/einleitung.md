@@ -1,7 +1,9 @@
 ---
 lang: de-DE
 ---
-
+```{margin}
+[english version](../en/introduction.html)
+```
 # QUADRIGA OERs: erstellen und gestalten mit Jupyter Book
 
 Open Educational Resources (OER) ermöglichen die Erarbeitung, Verbesserung, Aktualisierung und Nutzung von Lehr- und Lerninhalten in einer breiten Community innerhalb klarer rechtlicher Regelungen einer offenen Lizenzierung.
