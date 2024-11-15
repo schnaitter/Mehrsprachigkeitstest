@@ -19,7 +19,7 @@ Diese Vorlage dient somit der Entwicklung von QUADRIGA OERs und zeigt die Mögli
 ## Aufbau der OER
 Die OER startet mit einer Vorstellung der inhaltlichen Struktur sowie des didaktischen Konzepts einer QUADRIGA OER. Dann wird die technische Umsetzung präsentiert, wobei auf die Entwicklungsumgebung und die Formatierungs- und Darstellungsmöglichkeiten besonders eingegagen wird. Dann folgen Inhalte zur Einbettung eines (Self-)Assessments. Inhaltlich schließt die OER mit einem Fazit, auf welches dann noch das Hinterwerk folgt.
 
-```{figure} ./assets/intro/Aufbau_der_OER.svg
+```{figure} ../assets/intro/Aufbau_der_OER.svg
 ---
 align: left
 width: 100%

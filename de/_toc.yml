@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: einleitung
+parts:
+  - caption: 1 Struktur und didaktisches Konzept
+    chapters:
+      - file: struktur_didaktisches_konzept/struktur
+      - file: struktur_didaktisches_konzept/didaktisches_konzept
