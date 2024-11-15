@@ -33,15 +33,15 @@ jobs:
         pip install -r requirements.txt
 
     # Build the book
-    - name: Build the book
+    - name: Build both language versions and prepare the results
       run: |
-        jupyter-book build .
+        bash ./clean_build_all.sh
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: "_build/html"
+        path: "_html"
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
