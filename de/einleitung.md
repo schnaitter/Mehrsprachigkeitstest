@@ -2,7 +2,7 @@
 lang: de-DE
 ---
 ```{margin}
-[english version](../en/introduction.html)
+<a href="../en/introduction.html">english version</a>
 ```
 # QUADRIGA OERs: erstellen und gestalten mit Jupyter Book
 
